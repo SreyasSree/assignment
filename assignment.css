@@ -1,0 +1,163 @@
+*{
+    padding: 0px;
+    margin: 5px ;
+}
+body{
+    background-image: linear-gradient(to right, #a19ce296 ,#b7a1eb);
+}
+.vinod img{
+    max-height: 200px;
+    max-width: 200px;
+}
+.telephone1{
+    display: flex;
+    
+    /*background-color: white;
+    */background: linear-gradient(90deg,white 0%,transparent 60%);
+    border: 1px solid white;
+    border-radius: 20px;
+}
+h1{
+    color: rgb(41, 76, 173);
+    text-align: left;
+    font-size: 64px;
+}
+.info{
+    display: flex;
+}
+.info i{
+    font-size: 18px;
+}
+.info p{
+    font-size: 18px;
+}
+.head{
+    display: flex;
+    margin-top: 0px;
+    
+}
+.mainpage{
+    width: 60%;
+}
+
+.telephone2{
+    display: flex;
+    
+    /*background-color: white;
+    */background: linear-gradient(90deg,orange 0%,rgb(122, 122, 235) 60%);
+    border: 1px solid white;
+    border-radius: 40px;
+    max-width: 40%;
+    text-align: center;
+    
+}
+
+.growskill{
+    width: 40%;
+}
+.tution{
+    display: flex;
+
+}
+.white{
+    background-color: white;
+    border-radius: 20px;
+    border: 1px solid;
+    box-shadow: 1px 1px black;
+}
+.blocks{
+    border-radius: 10px;
+    display: flex;
+    
+}
+.education{
+    text-align: center;
+    margin: 10px;
+    padding-left: 10px;
+}
+.filler{
+    margin: auto;
+    background-color: violet;
+    border-radius: 10px;
+    max-width: 350px;
+    height: 100px;
+    border: 1px solid black;
+    box-shadow: 1px 2px black;
+}
+.whyimg{
+    display: flex;
+    padding: 20px;
+    margin: auto;
+}
+.imgtext{
+    border: 1px solid white;
+    box-shadow: 1px 2px black;
+    margin: auto;
+}
+.blurrimg{
+    display: flex;
+    margin: auto;
+}
+
+.imagecontent h2{
+    color: #824CEF;
+    font-size: 36px;
+    
+    margin: 50px;
+}
+.imagecontent{
+    margin: auto;
+    text-align: center;
+}
+.blurred2 {
+    position: absolute;
+    left: 1250px;
+    top: 1550px;
+}
+.blurred4{
+    position: absolute;
+    left: 100px;
+    top: 1450px;
+}
+.blurredstar{
+    position: absolute;
+    left: 1200px;
+    top: 850px;
+}
+.id img{
+    width: 242px;
+    height: 254px;
+    padding: auto;
+    margin: auto;
+}
+.id{
+    display: flex;
+    margin: 10% auto;
+    width: 670px;
+    padding: 10px;
+    border: 1px solid transparent;
+    box-shadow: 1px 1px 1px 1px white;
+    border-radius: 10px;
+}
+.data{
+    padding: 0;
+    color: white;
+    background-color: #847de696 ;
+    height: 252px;
+    padding: 2px;
+    width: 450px;
+    border: 1px solid white;
+    box-shadow: 1px 1px black;
+}
+.bottom{
+    position: absolute;
+    top: 2045px;
+    left: 475px;
+    z-index: -1;
+}
+.top{
+    position: absolute;
+    top: 1760px;
+    left: 1180px;
+    z-index: -1;
+}

@@ -161,3 +161,9 @@ h1{
     left: 1180px;
     z-index: -1;
 }
+.purple{
+    background-color: #9C89B8;
+    border-radius: 20px;
+    border: 1px solid;
+    box-shadow: 1px 1px black;
+}

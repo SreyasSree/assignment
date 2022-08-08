@@ -68,7 +68,7 @@ h1{
 }
 .tution{
     display: flex;
-
+    margin-top: 20px;
 }
 .white{
     background-color: white;
@@ -97,6 +97,7 @@ h1{
     height: 100px;
     border: 1px solid white;
     box-shadow: 1px 2px  black;
+    padding: 10px;
 }
 .whyimg{
     display: flex;
@@ -174,13 +175,13 @@ h1{
 }
 .bottom{
     position: absolute;
-    top: 2095px;
+    top: 2135px;
     left: 495px;
     z-index: -1;
 }
 .top{
     position: absolute;
-    top: 1800px;
+    top: 1835px;
     left: 1180px;
     z-index: -1;
 }
